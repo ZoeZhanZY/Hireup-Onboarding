@@ -1,0 +1,18 @@
+.registerBox {
+width: 500px;
+
+}
+
+.buttonList {
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+	width: 100%;
+	margin-top: 12px;
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+gap: 20px;
+}
